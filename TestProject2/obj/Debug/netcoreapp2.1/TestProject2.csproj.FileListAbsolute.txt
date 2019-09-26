@@ -1,0 +1,17 @@
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\bin\Debug\netcoreapp2.1\TestProject2.deps.json
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\bin\Debug\netcoreapp2.1\TestProject2.runtimeconfig.json
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\bin\Debug\netcoreapp2.1\TestProject2.runtimeconfig.dev.json
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\bin\Debug\netcoreapp2.1\TestProject2.dll
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\bin\Debug\netcoreapp2.1\TestProject2.pdb
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\bin\Debug\netcoreapp2.1\Test techniqes.dll
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\bin\Debug\netcoreapp2.1\Test techniqes.pdb
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\obj\Debug\netcoreapp2.1\TestProject2.csprojAssemblyReference.cache
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\obj\Debug\netcoreapp2.1\TestProject2.csproj.CoreCompileInputs.cache
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\obj\Debug\netcoreapp2.1\TestProject2.AssemblyInfoInputs.cache
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\obj\Debug\netcoreapp2.1\TestProject2.AssemblyInfo.cs
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\obj\Debug\netcoreapp2.1\TestProject2.csproj.CopyComplete
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\obj\Debug\netcoreapp2.1\TestProject2.dll
+C:\Users\onech\RiderProjects\Test techniqes\TestProject2\obj\Debug\netcoreapp2.1\TestProject2.pdb
